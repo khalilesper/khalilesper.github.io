@@ -12,3 +12,4 @@ Hi, I am Khalil Esper!
 ------
 a postdoctoral researcher at Friedrich-Alexander-Universität of Erlangen-Nürnberg (FAU) at the chair of Hardware-Software-Co-Design.
 My work focuses on the application of formal verification techniques in embedded and robotic applications.
+I consider both non-functional requirements, such as latency and energy consumption of embedded program executions, and functional requirements, such as safety.
